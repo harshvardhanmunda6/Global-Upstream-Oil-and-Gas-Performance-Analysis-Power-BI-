@@ -4,7 +4,7 @@
 
 This project provides an interactive Power BI dashboard for analyzing upstream oil and gas production metrics — including well activity, regional production trends, and crude oil price correlation.
 
-![Uploading 9d3ad16e-e6fd-412a-a9c3-4ca7aae6ac6a.png…]()
+<img width="1024" height="1536" alt="9d3ad16e-e6fd-412a-a9c3-4ca7aae6ac6a" src="https://github.com/user-attachments/assets/481a8a2c-01b4-47c4-973f-d4e2693d3f64" />
 
 ---
 
