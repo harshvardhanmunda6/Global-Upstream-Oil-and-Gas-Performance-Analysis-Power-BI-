@@ -1,74 +1,88 @@
+# 🌍 Global Upstream Oil & Gas Dashboard
 
-
-# 🛢️ Upstream Oil & Gas Performance Analysis Dashboard
-
-This project provides an interactive Power BI dashboard for analyzing upstream oil and gas production metrics — including well activity, regional production trends, and crude oil price correlation.
-
-<img width="1024" height="1536" alt="9d3ad16e-e6fd-412a-a9c3-4ca7aae6ac6a" src="https://github.com/user-attachments/assets/481a8a2c-01b4-47c4-973f-d4e2693d3f64" />
+This Power BI dashboard provides a strategic overview of the global upstream oil and gas sector, focusing on production, proven reserves, supply trends, and associated CO₂ emissions. It is designed for industry analysts, researchers, and decision-makers to explore exploration and production (E&P) dynamics across key oil-producing countries.
 
 ---
 
-## 📌 Project Objective
+## 📌 Objective
 
-To deliver insights into oil field performance, production efficiency, and price-volume dynamics to assist data-driven decision-making in the upstream oil and gas sector.
-
----
-
-## 📊 Dashboard Features
-
-- **Total Oil Production** (KPI Card)
-- **Active Wells** (KPI Card)
-- **Average Production per Well** (KPI Card)
-- **Monthly Production Trends** (Line Chart)
-- **Crude Oil Price vs Production Volume** (Bar & Scatter Plot)
-- **Filters** for Region, Year, and Operator
+To analyze and visualize upstream oil & gas activity worldwide, offering insights into:
+- Global production volumes and trends
+- Proven reserves distribution
+- Country-level supply growth
+- Environmental impact via CO₂ emissions
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📊 Key Features
 
-| Tool       | Purpose                                |
-|------------|----------------------------------------|
-| Power BI   | Dashboard creation and data modeling   |
-| Excel      | Initial data cleaning and preprocessing|
-| DAX        | KPIs, calculations, and measures       |
-| Power Query| Data shaping and transformation        |
-
----
-
-## 📂 Dataset Sources
-
-- **[EIA.gov Open Data](https://www.eia.gov/opendata/)** – Monthly U.S. oil production, well counts, and pricing data  
-- **[Kaggle – Oil & Gas Field Production](https://www.kaggle.com/datasets/eephie/oil-and-gas-field-production-data)**  
-- **[ShaleProfile Sample Data](https://www.shaleprofile.com)** – Well-level analytics (Permian, Bakken, Eagle Ford)
+- **Total Global Oil Production**: 97.5 million BOE/day  
+- **Year-over-Year Growth**: +1.2%  
+- **Top 10 Producing Countries**: Saudi Arabia, Russia, USA, Canada, Iraq, China, Iran, etc.  
+- **Proven Reserves Map**: Highlights reserve-rich nations (Saudi Arabia, Canada, Russia, Iran)  
+- **CO₂ Emissions vs Production**: Tracks emissions growth relative to oil & gas output  
 
 ---
 
-## 📈 Key Insights
+## 📈 Dashboard Sections
 
-- ✅ Identified **10% YoY decline** in mature well productivity  
-- ✅ Mapped **50% of production** to top 3 basins  
-- ✅ Found **negative correlation (-0.65)** between crude price drops and well activity  
-- ✅ Reduced reporting effort by **70%** via Power BI automation
+1. **Global Production Overview**
+   - Multi-year line chart of oil & gas production
+   - KPIs: current output and YoY change
 
----
+2. **Top Producing Countries**
+   - Bar chart ranking top oil producers
+   - Trend line showing historical growth
 
-## 📎 Use Cases
+3. **Proven Reserves Analysis**
+   - World map of oil/gas reserves (Billion BOE)
+   - Treemap of country-wise reserve share
 
-- Investment analysis in upstream assets  
-- Operational performance monitoring  
-- Price trend impact on field activity  
-- Executive reporting and decision dashboards
+4. **Upstream Supply Trends**
+   - Volatility and growth in production
 
----
-
-## 🧠 Skills Demonstrated
-
-- Data modeling and cleaning  
-- KPI calculation with DAX  
-- Dashboard storytelling for oil & gas  
-- Industry-aligned analytical thinking
+5. **CO₂ Emissions Context**
+   - Emissions trend compared to output growth
 
 ---
 
-## 📁 Repository Structure
+## 🔍 Strategic Insights
+
+- **Saudi Arabia, Russia, and the US** continue to lead global oil production and reserve holdings.
+- Despite modest YoY production growth (+1.2%), emissions continue to rise at a faster pace.
+- Reserve-rich nations may hold pricing and supply power in OPEC+ negotiations and global market shifts.
+- Geopolitical developments, carbon regulations, and investment shifts toward renewables are critical external variables impacting upstream dynamics.
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI** – Interactive data visualizations  
+- **Excel/Pandas** – Data cleaning and transformation  
+- **Public Dataset** – Source: Kaggle / EIA / BP Statistical Review
+
+---
+
+## 📁 Project Files
+
+- `Upstream_Oil_Gas_Dashboard.pbix` – Power BI file  
+- `insights_summary.pdf` – Executive insights (optional)  
+- `data_cleaned.xlsx` – Clean dataset  
+- Dashboard image preview below ⬇️
+
+![Dashboard Preview](./Global_Upstream_Oil_Gas.png)
+
+---
+
+## 👤 Author
+
+**Harshvardhan Munda**  
+Data Analyst | Upstream 0il and Gas|Geology IIT Kanpur  
+📧 harshvardhanmunda99@gmail.com  
+🔗 [LinkedIn]([https://www.linkedin.com/in/harshvardhan-munda-98141a130/])|[Portfolio](https://yourportfolio.link)
+
+---
+
+## 📌 Disclaimer
+
+This dashboard is created for educational and analytical purposes only. Data accuracy may be subject to original dataset limitations.
