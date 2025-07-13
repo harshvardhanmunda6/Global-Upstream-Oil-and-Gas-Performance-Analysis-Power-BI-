@@ -79,7 +79,7 @@ To analyze and visualize upstream oil & gas activity worldwide, offering insight
 **Harshvardhan Munda**  
 Data Analyst | Upstream 0il and Gas|Geology IIT Kanpur  
 📧 harshvardhanmunda99@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/harshvardhan-munda-98141a130/])|[Portfolio](https://yourportfolio.link)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshvardhan-munda-98141a130/)|[Portfolio](https://yourportfolio.link)
 
 ---
 
