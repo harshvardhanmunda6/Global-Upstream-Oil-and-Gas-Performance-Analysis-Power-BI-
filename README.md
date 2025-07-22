@@ -1,5 +1,7 @@
 # 🌍 Global Upstream Oil & Gas Dashboard
 
+<img width="1536" height="1024" alt="file_00000000e4ac61f98837d96191e72358" src="https://github.com/user-attachments/assets/e71f50b1-3cd1-47ab-9190-5e1a7105f6d2" />
+
 This Power BI dashboard provides a strategic overview of the global upstream oil and gas sector, focusing on production, proven reserves, supply trends, and associated CO₂ emissions. It is designed for industry analysts, researchers, and decision-makers to explore exploration and production (E&P) dynamics across key oil-producing countries.
 
 ---
